@@ -1,6 +1,6 @@
-<h3 align="center"><b>🦾 Tech Stack 🦾</b></h3>
+<h3><b>🦾 Studying 🦾</b></h3>
 </br>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
@@ -10,3 +10,35 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a> &nbsp 
 </p>
+</br>
+
+<h3><b>🖥 BaekJoon's Rank 🖥</b></h3>
+</br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fbckdgns123)](https://solved.ac/fbckdgns123)
+
+</br>
+</p>
+
+<h3><b> 💻Most used language 💻</b></h3>
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuchanghoon&layout=Demo&theme=tokyonight)
+
+</br>
+
+<h3><b>🖥 GitHub Stats 🖥</b></h3>
+</br>
+
+![Ryuchanghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuchanghoon&show_icons=true&theme=radical)
+
+</br>
+<h3><b>🛠 Tools 🛠</b></h3>
+
+</br>
+<p>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a> &nbsp
+</p>
+</br>
