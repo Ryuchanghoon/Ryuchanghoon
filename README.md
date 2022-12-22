@@ -28,6 +28,9 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:power10203044@gmail.com)](mailto:power10203044@gmail.com)
 </br>
 </br>
+
+[👋블로그](https://ryuchanghoon.github.io/)
+
 <h3><b>🖥 BaekJoon's Rank 🖥</b></h3>
 </br>
 
