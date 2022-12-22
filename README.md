@@ -36,10 +36,6 @@
 </br>
 </p>
 
-<h3><b> 💻Most used language 💻</b></h3>
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuchanghoon&layout=Demo&theme=tokyonight)
 
 </br>
 
