@@ -31,7 +31,7 @@
 <h3><b>👉 Contact with Me 👈 </b></h3>
 </br>
 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:power10203044@gmail.com)](mailto:power10203044@gmail.com)
+ [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fbckdgns3@naver.com)](mailto:fbckdgns3@naver.com)
 </br>
 </br>
 
