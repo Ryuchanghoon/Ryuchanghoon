@@ -10,13 +10,13 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp  
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 </p>
-</br>
-</br>
-[👋Hoon's Blog](https://ryuchanghoon.github.io/)
+
 </br>
 <h3><b>🛠 Tools 🛠</b></h3>
 
 </br>
+
+
 <p>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a> &nbsp
@@ -24,6 +24,10 @@
 </p>
 </br>
 
+
+[👋 Hoon's Blog 👋](https://ryuchanghoon.github.io/)
+</br>
+</br>
 <h3><b>👉 Contact with Me 👈 </b></h3>
 </br>
 
