@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 </p>
 </br>
-
+</br>
+[👋Hoon's Blog](https://ryuchanghoon.github.io/)
+</br>
 <h3><b>🛠 Tools 🛠</b></h3>
 
 </br>
@@ -29,7 +31,6 @@
 </br>
 </br>
 
-[👋블로그](https://ryuchanghoon.github.io/)
 
 <h3><b>🖥 BaekJoon's Rank 🖥</b></h3>
 </br>
