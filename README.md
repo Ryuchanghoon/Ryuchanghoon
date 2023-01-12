@@ -50,4 +50,4 @@
 <h3><b>🖥 GitHub Stats 🖥</b></h3>
 </br>
 
-![Ryuchanghoon's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Ryuchanghoon&show_icons=true&theme=radical)
+![Ryuchanghoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryuchanghoon&show_icons=true&theme=radical)
