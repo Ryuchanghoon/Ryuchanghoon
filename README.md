@@ -25,7 +25,7 @@
 </br>
 
 
-[👋 Hoon's Blog 👋](https://ryuchanghoon.github.io/)
+[👋 Hoon's Blog 👋](https://velog.io/@fbckdgns3)
 </br>
 </br>
 <h3><b>👉 Contact with Me 👈 </b></h3>
