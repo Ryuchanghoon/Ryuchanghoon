@@ -29,10 +29,14 @@
 </p>
 </br>
 
+<h3><b>👉 Hoon's Blog 👈 </b></h3>
+</br>
 
-[👋 Hoon's Blog 👋](https://velog.io/@fbckdgns3)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Linear_RCH)](https://velog.io/@fbckdgns3) 
+
 </br>
 </br>
+
 <h3><b>👉 Contact with Me 👈 </b></h3>
 </br>
 
