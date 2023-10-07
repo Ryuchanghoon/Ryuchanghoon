@@ -43,7 +43,7 @@
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Linear_RCH)](https://velog.io/@fbckdgns3) 
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?color=black&name=fbckdgns3)](https://github.com/Ryuchanghoon/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=fbckdgns3)](https://github.com/Ryuchanghoon/velog-readme-stats)
 </br>
 </br>
 
