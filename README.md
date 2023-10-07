@@ -29,13 +29,7 @@
 </p>
 </br>
 
-<h3><b>👉 Hoon's Blog 👈 </b></h3>
-</br>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Linear_RCH)](https://velog.io/@fbckdgns3) 
-
-</br>
-</br>
 
 <h3><b>👉 Contact with Me 👈 </b></h3>
 </br>
@@ -43,7 +37,15 @@
  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:fbckdgns3@naver.com)](mailto:fbckdgns3@naver.com)
 </br>
 </br>
+</br>
+<h3><b>👉 Hoon's Blog 👈 </b></h3>
+</br>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Linear_RCH)](https://velog.io/@fbckdgns3) 
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?color=black&name=fbckdgns3)](https://github.com/eungyeole/velog-readme-stats)
+</br>
+</br>
 
 <h3><b>🖥 BaekJoon's Rank 🖥</b></h3>
 </br>
@@ -55,6 +57,9 @@
 
 
 </br>
+
+
+
 
 <h3><b>🖥 GitHub Stats 🖥</b></h3>
 </br>
