@@ -3,7 +3,7 @@
 
 </br>
 
-<h3><strong>🔨 Deep Digging : <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=Opencv&logoColor=white"> </strong></h3>
+<h3><strong>🔨 Deep Digging : OpenCV </strong></h3>
 
 
 
@@ -21,11 +21,4 @@
 </br>
 </br>
 
-
-<h3>
-    <strong>📬 Contact :
-        <a href="mailto:fbckdgns3@naver.com3">
-            <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="Naver Badge">
-        </a>
-    </strong>
-</h3>
+<h3><strong>📬 Contact : </strong><span>fbckdgns3@naver.com</span></h3>
