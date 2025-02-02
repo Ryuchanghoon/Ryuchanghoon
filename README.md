@@ -10,13 +10,7 @@
 </br>
 </br>
 
-<h3>
-    <strong>📽 Story : 
-        <a href="https://velog.io/@fbckdgns3">
-            <img src="https://velog-readme-stats.vercel.app/api/badge?name=Linear_RCH" alt="Velog's GitHub stats">
-        </a>
-    </strong>
-</h3>
+<h3><strong>📽 Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></h3>
 
 </br>
 </br>
