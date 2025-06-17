@@ -28,12 +28,12 @@
 
 ## Project.
 
-- 채식탁 (2024.12 ~ 현재)
+- [채식탁](https://github.com/chaesiktak) (2024.12 ~ 현재)
 
-- BARO (2023.12 ~ 2024.02)
+- [BARO](https://github.com/ProjectBARO) (2023.12 ~ 2024.02)
 
-- OCR 성능 개선 프로젝트 (2025.01 ~ 2025.03)
+- [OCR 성능 개선 프로젝트](https://github.com/Ryuchanghoon/Improve-OCR-Quality) (2025.01 ~ 2025.03)
 
-- Running Posture 프로젝트 (2024.03 ~ 2024.06)
+- [Running Posture 프로젝트](https://github.com/Ryuchanghoon/correct_running_pose_Project) (2024.03 ~ 2024.06)
 
-- 과적 차량 검출 프로젝트(2025.03 ~ 현재)
+- [LoadKill](https://github.com/LoadKill) (2025.03 ~ 2025.06)
