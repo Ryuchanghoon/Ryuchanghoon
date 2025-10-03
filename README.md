@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=24&pause=1000&color=FF5722&width=455&height=55&lines=Vision+AI+%EC%97%B0%EA%B5%AC%EC%9B%90+%EB%A5%98%EC%B0%BD%ED%9B%88%EC%9E%85%EB%8B%88%EB%8B%A4." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=24&pause=1000&color=1771FF&width=455&height=55&lines=Vision+AI+%EC%97%B0%EA%B5%AC%EC%9B%90" alt="Typing SVG" /></a>
 
 <h4><strong>🔨 Working : Disaster Prevention AI </strong></h4>
 
