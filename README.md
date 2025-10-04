@@ -1,13 +1,9 @@
 
-<p align="center" style="font-family: 'Arial Black', 'Malgun Gothic', sans-serif; font-size: 55 px; color: #1771FF; line-height: 1.6; font-weight: bold;">
-  기술보다 문제의 목적을 먼저 바라보고<br>
-  주어진 시간 안에서 최고보다 최선의 결과를 도출하며<br>
-  누구에게나 배우는 AI 연구자
+<p align="center">
+  기술보다 <b>문제의 목적</b>을 먼저 바라보고<br>
+  주어진 시간 안에서 최고보다 <b>최선의 결과</b>를 도출하며<br>
+  누구에게나 배우는 <b>AI 연구자</b>
 </p>
-
-
-
-
 
 
 <p align="center">
@@ -20,11 +16,13 @@
 
 <div align="center">
 
-<p><strong style="font-size:20px;">Engaged in : Disaster Prevention AI</strong></p>
+<p><strong>Engaged in : Disaster Prevention AI</strong></p>
 
 <p><strong> Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></p>
 
-<p><strong> Contact : </strong><span>fbckdgns3@naver.com</span></p>
+<p><strong> Contact : </strong>
+  <a href="mailto:fbckdgns3@naver.com">fbckdgns3@naver.com</a>
+</p>
 
 </div>
 
