@@ -15,7 +15,7 @@
 
 <div align="center">
 
-<p><strong>Engaged in : Disaster Prevention AI</strong></p>
+<p><strong>Engaged in Now : Disaster Prevention AI</strong></p>
 
 <p><strong> Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></p>
 
