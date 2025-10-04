@@ -1,14 +1,32 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jua&size=24&pause=1000&color=1771FF&width=455&height=55&lines=Vision+AI+%EC%97%B0%EA%B5%AC%EC%9B%90" alt="Typing SVG" /></a>
 
-<h4><strong>🔨 Working : Disaster Prevention AI </strong></h4>
+<p align="center" style="font-family: 'Arial Black', 'Malgun Gothic', sans-serif; font-size: 55 px; color: #1771FF; line-height: 1.6; font-weight: bold;">
+  기술보다 문제의 목적을 먼저 바라보고<br>
+  주어진 시간 안에서 최고보다 최선의 결과를 도출하며<br>
+  누구에게나 배우는 AI 연구자
+</p>
+
+
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Researcher-%231771FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Driven-%231771FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning%20from%20Everyone-%231771FF?style=for-the-badge&logoColor=white" />
+</p>
 
 </br>
 
-<h4><strong>📽 Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></h4>
+<div align="center">
 
-</br>
+<p><strong style="font-size:20px;">Engaged in : Disaster Prevention AI</strong></p>
 
-<h4><strong>📬 Contact : </strong><span>fbckdgns3@naver.com</span></h4>
+<p><strong> Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></p>
+
+<p><strong> Contact : </strong><span>fbckdgns3@naver.com</span></p>
+
+</div>
 
 </br>
 
