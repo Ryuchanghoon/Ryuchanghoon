@@ -32,37 +32,38 @@
 
 <h2><strong>Experience.</strong></h2>
 
-<table>
+<table align="center">
   <tr>
-    <td>택산 기업부설연구소</td>
-    <td>Vision AI 연구원</td>
-    <td>2025.07 ~</td>
+    <td align="center">택산 기업부설연구소</td>
+    <td align="center">Vision AI 연구원</td>
+    <td align="center">2025.07 ~</td>
   </tr>
   <tr>
-    <td>Class 101</td>
-    <td>'최소에서 최대로, 극한의 컴퓨터 비전'</td>
-    <td>2025.08 ~</td>
+    <td align="center">Class 101</td>
+    <td align="center">'최소에서 최대로, 극한의 컴퓨터 비전'</td>
+    <td align="center">2025.08 ~</td>
   </tr>
   <tr>
-    <td>인공지능 명예학회 1기</td>
-    <td>교내 인공지능 학술 동아리 회장</td>
-    <td>2023.02 ~ 2023.06</td>
+    <td align="center">인공지능 명예학회 1기</td>
+    <td align="center">교내 인공지능 학술 동아리 회장</td>
+    <td align="center">2023.02 ~ 2023.06</td>
   </tr>
   <tr>
-    <td>인공지능 명예학회 2기</td>
-    <td>교내 인공지능 학술 동아리 회장</td>
-    <td>2023.09 ~ 2024.06</td>
+    <td align="center">인공지능 명예학회 2기</td>
+    <td align="center">교내 인공지능 학술 동아리 회장</td>
+    <td align="center">2023.09 ~ 2024.06</td>
   </tr>
   <tr>
-    <td>인공지능 명예학회 3기</td>
-    <td>교내 인공지능 학술 동아리 회장</td>
-    <td>2024.09 ~ 2025.02</td>
+    <td align="center">인공지능 명예학회 3기</td>
+    <td align="center">교내 인공지능 학술 동아리 회장</td>
+    <td align="center">2024.09 ~ 2025.02</td>
   </tr>
   <tr>
-    <td>GDSC SKHU</td>
-    <td>Google 개발 동아리 AI 파트 팀장</td>
-    <td>2023.09 ~ 2024.06</td>
+    <td align="center">GDSC SKHU</td>
+    <td align="center">Google 개발 동아리 AI 파트 팀장</td>
+    <td align="center">2023.09 ~ 2024.06</td>
   </tr>
 </table>
 
 </div>
+
