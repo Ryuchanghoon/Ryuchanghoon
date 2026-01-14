@@ -59,7 +59,7 @@
     <td align="center">2024.09 ~ 2025.02</td>
   </tr>
   <tr>
-    <td align="center">GDSC SKHU</td>
+    <td align="center">GDG on Campus SKHU</td>
     <td align="center">Google 개발 동아리 AI 파트 팀장</td>
     <td align="center">2023.09 ~ 2024.06</td>
   </tr>
