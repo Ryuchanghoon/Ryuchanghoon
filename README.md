@@ -34,7 +34,7 @@
 
 <table align="center">
   <tr>
-    <td align="center">택산 기업부설연구소</td>
+    <td align="center">택산 R&D Center</td>
     <td align="center">Vision AI 연구원</td>
     <td align="center">2025.07 ~</td>
   </tr>
