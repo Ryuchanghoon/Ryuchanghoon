@@ -36,7 +36,7 @@
   <tr>
     <td align="center">택산 R&D Center</td>
     <td align="center">Vision AI 연구원</td>
-    <td align="center">2025.07 ~</td>
+    <td align="center">2025.07 ~ 2026.02</td>
   </tr>
   <tr>
     <td align="center">Class 101</td>
