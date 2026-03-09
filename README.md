@@ -15,7 +15,7 @@
 
 <div align="center">
 <p><strong>
-Current Research : Medical Vision AI<br>
+Engaged in Now : Medical Vision AI<br>
 Previous Research : Disaster Prevention AI
 </strong></p>
 
