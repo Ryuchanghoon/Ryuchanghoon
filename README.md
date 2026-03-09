@@ -14,8 +14,10 @@
 </br>
 
 <div align="center">
-
-<p><strong>Engaged in Now : Disaster Prevention AI</strong></p>
+<p><strong>
+Current Research : Medical Vision AI<br>
+Previous Research : Disaster Prevention AI
+</strong></p>
 
 <p><strong> Story : <a href="https://velog.io/@fbckdgns3">Linear_RCH</a></strong></p>
 
@@ -33,6 +35,12 @@
 <h2><strong>Experience.</strong></h2>
 
 <table align="center">
+
+  <tr>
+    <td align="center">MIEL</td>
+    <td align="center">Research Intern</td>
+    <td align="center">2026.03 ~ </td>
+  </tr>
   <tr>
     <td align="center">택산 R&D Center</td>
     <td align="center">Vision AI 연구원</td>
